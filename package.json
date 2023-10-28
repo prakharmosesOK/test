@@ -1,0 +1,31 @@
+{
+  "name": "3d-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.18.20",
+    "nanoid": "^3.3.6",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.30",
+    "rollup": "^3.29.2",
+    "source-map-js": "^1.0.2",
+    "three": "^0.156.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakharmosesOK/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakharmosesOK/test/issues"
+  },
+  "homepage": "https://github.com/prakharmosesOK/test#readme",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
